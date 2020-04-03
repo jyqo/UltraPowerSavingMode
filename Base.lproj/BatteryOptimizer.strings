@@ -1,42 +1,42 @@
 /*
     UltraPowerSavingMode
-    Language: English
+    Language: Chinese
     Translated by @prasadev_
     Date: 03 April 2020
 */
 
-"BATTERY_OPTIMIZER_TITLE" = "Smart Battery Optimizer";
+"BATTERY_OPTIMIZER_TITLE" = "电池智能优化";
 
-"WHEN_TO_USE" = "When to use\?";
-"WHEN_TO_USE_DESCRIPTION" = "Choose when you want to automatically enter power saving mode.";
-"WHEN_TO_USE_CHARGING" = "Charging";
-"WHEN_TO_USE_NOT_CHARGING" = "Not Charging";
-"WHEN_TO_USE_BOTH" = "Both";
-"WHEN_TO_USE_USAGE_EXPLANATION" = "Usage Explanation";
+"WHEN_TO_USE" = "何时使用?";
+"WHEN_TO_USE_DESCRIPTION" = "选择什么时候自动进入节电模式.";
+"WHEN_TO_USE_CHARGING" = "充电时";
+"WHEN_TO_USE_NOT_CHARGING" = "不在充电时";
+"WHEN_TO_USE_BOTH" = "全选";
+"WHEN_TO_USE_USAGE_EXPLANATION" = "使用说明";
 
-"NO_INTERNET" = "No Internet";
-"NO_INTERNET_DESCRIPTION" = "Only enable when there is no internet connection.";
-"NO_INTERNET_ENABLED" = "No Internet Connection";
+"NO_INTERNET" = "未联网";
+"NO_INTERNET_DESCRIPTION" = "仅当没有互联网连接时激活.";
+"NO_INTERNET_ENABLED" = "未联网已激活";
 
-"MEDIA_PLAYING" = "Media Playing";
-"MEDIA_PLAYING_DESCRIPTION" = "Only enable when any music or media currently playing. This is useful if you often fall asleep when music is playing.";
-"MEDIA_PLAYING_ENABLED" = "Media Playing";
+"MEDIA_PLAYING" = "有媒体播放时";
+"MEDIA_PLAYING_DESCRIPTION" = "仅当有音乐或者其他媒体在播放时激活.这对于经常听音乐入睡的人非常有用";
+"MEDIA_PLAYING_ENABLED" = "媒体播放已激活";
 
-"SCREEN_OFF" = "Screen Off";
-"SCREEN_OFF_DESCRIPTION" = "Only enter ultra power saving mode when the screen is currently off.";
-"SCREEN_OFF_ENABLED" = "Only Screen Off";
+"SCREEN_OFF" = "锁屏";
+"SCREEN_OFF_DESCRIPTION" = "仅当屏幕锁定时进入节电模式.";
+"SCREEN_OFF_ENABLED" = "锁屏激活已启用";
 
-"AUTOMATIC_TURN_ON" = "Automatic Turn On";
-"AUTOMATIC_TURN_ON_DESCRIPTION" = "Automatically turn the device to normal state when current battery is greater than the battery level you set.";
-"AUTOMATIC_TURN_ON_ENABLED" = "Use Automatic Turn On";
-"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Battery Level";
+"AUTOMATIC_TURN_ON" = "自动激活";
+"AUTOMATIC_TURN_ON_DESCRIOPTION" = "当电池电量高于你设置的值时自动进入正常模式";
+"AUTOMATIC_TURN_ON_ENABLED" = "自动激活已启用";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "自动进入正常模式电量";
 
-"MINIMUM_BATTERY_PERCENTAGE" = "Minimum Battery Percentage";
-"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "Enter power saving mode when current battery percentage is below your set percentage. Default battery threshold is 5%.";
-"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "Battery Percentage";
+"MINIMUM_BATTERY_PERCENTAGE" = "最低电量";
+"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "当电池电量低于设置值时进入节电模式，苹果默认5%.";
+"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "电量值";
 
-"DELAY" = "Delay";
-"DELAY_DESCRIPTION" = "Set delay (in minutes) when device is about to enter ultra power saving mode. Default 2 minutes.";
+"DELAY" = "延时";
+"DELAY_DESCRIPTION" = "设置进入节电模式的延时时间，默认2分钟.";
 
-"NOTE" = "Note: To cancel current delay during countdown, you can press lock button 3 times (iOS 13) or long press the lock button (iOS 12).";
-"EXTRA_NOTE" = "Extra Note: Manually cancelling the delay will postpone delay for 10 minutes (if the condition still met). If you are only using Charging option, unplugging charger during countdown will automatically cancel the delay for 5 minutes (if the condition still met).";
+"NOTE" = "注意:要取消当前延时倒计时，你可以按3次锁屏键(ios13)或者长按锁屏键(ios12).";
+"EXTRA_NOTE" = "额外注意：手动取消延迟将延迟10分钟（如果条件仍然满足）。 如果您仅使用“充电”选项，则在倒计时期间拔出充电器的插头会自动取消5分钟的延迟（如果仍然符合条件）";
