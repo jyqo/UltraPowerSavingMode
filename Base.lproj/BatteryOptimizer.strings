@@ -1,24 +1,24 @@
 /*
     UltraPowerSavingMode
-    Language: English
+    Language: Chinese
     Translated by @prasadev_
     Date: 03 April 2020
 */
 
-"BATTERY_OPTIMIZER_TITLE" = "Smart Battery Optimizer";
+"BATTERY_OPTIMIZER_TITLE" = "电池智能优化";
 
-"WHEN_TO_USE" = "When to use\?";
-"WHEN_TO_USE_DESCRIPTION" = "Choose when you want to automatically enter power saving mode.";
-"WHEN_TO_USE_CHARGING" = "Charging";
-"WHEN_TO_USE_NOT_CHARGING" = "Not Charging";
-"WHEN_TO_USE_BOTH" = "Both";
-"WHEN_TO_USE_USAGE_EXPLANATION" = "Usage Explanation";
+"WHEN_TO_USE" = "何时使用?";
+"WHEN_TO_USE_DESCRIPTION" = "选择什么时候自动进入节电模式.";
+"WHEN_TO_USE_CHARGING" = "充电时";
+"WHEN_TO_USE_NOT_CHARGING" = "不在充电时";
+"WHEN_TO_USE_BOTH" = "全选";
+"WHEN_TO_USE_USAGE_EXPLANATION" = "使用说明";
 
-"NO_INTERNET" = "No Internet";
-"NO_INTERNET_DESCRIPTION" = "Only enable when there is no internet connection.";
-"NO_INTERNET_ENABLED" = "No Internet Connection";
+"NO_INTERNET" = "未联网";
+"NO_INTERNET_DESCRIPTION" = "仅当没有互联网连接时激活.";
+"NO_INTERNET_ENABLED" = "未联网已激活";
 
-"MEDIA_PLAYING" = "Media Playing";
+"MEDIA_PLAYING" = "有媒体播放时";
 "MEDIA_PLAYING_DESCRIPTION" = "Only enable when any music or media currently playing. This is useful if you often fall asleep when music is playing.";
 "MEDIA_PLAYING_ENABLED" = "Media Playing";
 
